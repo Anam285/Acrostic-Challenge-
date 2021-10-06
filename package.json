@@ -1,0 +1,16 @@
+{
+  "name": "Acrostic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wordhub": "^1.5.0",
+    "yargs": "^17.2.1"
+  }
+}
